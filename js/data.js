@@ -1,0 +1,58 @@
+const listData = [
+    {
+        id: 1,
+        name: "Nike Air Force one '01",
+        price: 100,
+        quantity: 8,
+        imgURL: "./img/sp1.png",
+    },
+    {
+        id: 2,
+        name: "Nike Air Force Max 02",
+        price: 200,
+        quantity: 3,
+        imgURL: "./img/sp2.png",
+    },
+    {
+        id: 3,
+        name: "Nike Air Force 1 Mini'03",
+        price: 300,
+        quantity: 8,
+        imgURL: "./img/sp3.png",
+    },
+    {
+        id: 4,
+        name: "Nike Air Max Terrascape 04",
+        price: 100,
+        quantity: 9,
+        imgURL: "./img/sp4.png",
+    },
+    {
+        id: 5,
+        name: "Nike Court Next Nature 05",
+        price: 100,
+        quantity: 4,
+        imgURL: "./img/sp5.png",
+    },
+    {
+        id: 6,
+        name: "Nike Air Zoom G.T.",
+        price: 120,
+        quantity: 6,
+        imgURL: "./img/sp6.png",
+    },
+    {
+        id: 7,
+        name: "Nike Air Force 1 '07",
+        price: 80,
+        quantity: 2,
+        imgURL: "./img/sp7.png",
+    },
+    {
+        id: 8,
+        name: "Nike Downshifter 11",
+        price: 60,
+        quantity: 10,
+        imgURL: "./img/sp8.png",
+    },
+]
